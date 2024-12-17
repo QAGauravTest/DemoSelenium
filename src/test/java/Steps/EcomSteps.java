@@ -7,14 +7,14 @@ import java.util.Map;
 import java.util.Set;
 import java.util.stream.Collectors;
 
-import PageFactory.AmazonHomePage;
-import PageFactory.BaseClass;
-import PageFactory.FlipkartHomePage;
 import Utils.UpdateExcel;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
+import pages.AmazonHomePage;
+import pages.BaseClass;
+import pages.FlipkartHomePage;
 
 public class EcomSteps {
     BaseClass baseClass ;

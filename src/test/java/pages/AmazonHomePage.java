@@ -1,4 +1,4 @@
-package PageFactory;
+package pages;
 
 import SeleniumUtils.SeleniumUtil;
 import org.openqa.selenium.Keys;
